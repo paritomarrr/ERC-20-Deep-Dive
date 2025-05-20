@@ -1,10 +1,3 @@
----
-title: "The Ultimate ERC20 Development & Audit Suite"
-description: "Built with Hardhat & Foundry | Complete Testing, Security Audit Notes, and Learning Resources"
-image: "/assets/erc20-banner-cover.png"
-theme: dark
----
-
 # 🧠 ERC20 Smart Contract Suite
 
 Welcome to the **ERC20 Development and Security Learning Suite** — a comprehensive, dual-environment (Hardhat + Foundry) boilerplate designed to:
